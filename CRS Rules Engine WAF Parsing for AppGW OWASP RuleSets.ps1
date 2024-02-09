@@ -6,7 +6,7 @@ Company: Microsoft
 
 Background: The purpose of this script is to provide an automated resolution to detecting changes within selected OWASP CRS Rules Engines
 as per relevant to the mangaed rules engines that Microsoft aligns to for their Web Application Firewall(WAF) Policies for App Gateway Azure
-resoureces.This provided script will serve as an example of how to actively parse through the output given by PS cmdlet Get-AzApplicationGatewayAvailableWafRuleSets
+resources.This provided script will serve as an example of how to actively parse through the output given by PS cmdlet Get-AzApplicationGatewayAvailableWafRuleSets
 as per what is indicative to a users WAF Policy and managed rulesets within their given subscription within Azure. #>
 
 Connect-AzAccount
